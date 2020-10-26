@@ -1,3 +1,4 @@
-Vari script bash
+Vari script bash.
+
 Da provare.
 
